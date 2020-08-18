@@ -2,7 +2,7 @@
 
 <p>Fonctionnement: <br/>
 Lancer <strong>index.html</strong> sur son navigateur favoris.
-La nav barre de l'index possède des liens envoyant sur toutes les pages de démo de l'appli.</p>
+La nav barre de l'index possède tous les liens envoyant sur toutes les pages de démo de l'appli.</p>
 
 <hr/>
 
