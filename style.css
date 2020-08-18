@@ -1,0 +1,35 @@
+nav{
+    box-shadow: 0px 1px 3px grey;
+}
+body, html{
+    height: 100%
+}
+.fat-hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("event_photo.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.skinny-hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("pexels-vishnu-r-nair-1105666.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.avatar{
+    height: 32px;
+    width: 32px;
+}
+
+.mini-event{
+    height: 100px;
+}
+
+.card-img-top{
+    height: 250px;
+}
